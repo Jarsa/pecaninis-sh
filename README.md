@@ -1,1 +1,1 @@
-# pecaninis-sh
+# Pecaninis instance for Odoo.sh
