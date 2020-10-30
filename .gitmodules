@@ -34,3 +34,7 @@
 	path = xunnel
 	url = git@github.com:xunnel/xunnel.git
 	branch = 13.0
+[submodule "pecaninis"]
+	path = pecaninis
+	url = git@git.vauxoo.com:jarsa/pecaninis.git
+	branch = 13.0
