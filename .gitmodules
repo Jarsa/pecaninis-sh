@@ -30,11 +30,11 @@
 	path = purchase-workflow
 	url = git@github.com:jarsa/purchase-workflow.git
 	branch = 13.0
-[submodule "xunnel"]
-	path = xunnel
-	url = git@github.com:xunnel/xunnel.git
-	branch = 13.0
 [submodule "pecaninis"]
 	path = pecaninis
 	url = git@git.vauxoo.com:jarsa/pecaninis.git
+	branch = 13.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:jarsa/xunnel-account.git
 	branch = 13.0
