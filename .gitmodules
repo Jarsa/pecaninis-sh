@@ -38,3 +38,8 @@
 	path = xunnel-account
 	url = git@git.vauxoo.com:jarsa/xunnel-account.git
 	branch = 13.0
+
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:Jarsa/server-ux.git
+	branch = 13.0
